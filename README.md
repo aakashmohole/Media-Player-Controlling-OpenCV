@@ -40,7 +40,7 @@ script
 python main.py
 ```
 
-# Setting Up ✈️
+## Setting Up ✈️
 
 Clone or Download this repository and store it on your machine.
 
